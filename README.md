@@ -24,7 +24,11 @@ cd poki
 npm install
 cd ..
 </pre>
-
+If you get an error when you run "express poki", you may need to change your node version.  Try moving to the Long Term Support version (16.13.0) with
+<pre>
+nvm install 16.13.0
+</pre>
+     
 Now copy the files into the correct places in the template
 <pre>
 cp node-api-server-tutorial/src/index.html poki/public
