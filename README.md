@@ -1,9 +1,8 @@
 # node-api-server-tutorial
 This is a simple introduction to creating a REST service and api with node
 
-We will show you how to create a simple REST back end on your local machine using Atom.  You could move the code to your Digital Ocean server by configuring nginx to forward requests for a domain to port 3000.
+We will show you how to create a simple REST back end on your local machine.  You could move the code to your production server by configuring nginx to forward requests for a domain to port 3000.
 
-This tutorial will assume you are runnin
 ## Creating the Front End
 We aren't going to have you build the front end, we will just have you check it out from git.
 
